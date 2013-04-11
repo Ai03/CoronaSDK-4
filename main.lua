@@ -54,4 +54,3 @@ local function onCollision()
 end
 
 land:addEventListener("collision", onCollision)
-
